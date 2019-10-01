@@ -7,3 +7,17 @@ command line:
 steghide embed -ef 'secretfilepath' -cf 'imagepath' -p password123
 
 steghide extract -sf 'imagepath' -p password123 
+
+tools used:
+Xiao Steganography
+Image Steganography
+Steghide
+Crypture
+SteganographX Plus
+rSteg
+SSuite Picsel
+Our Secret
+Camouflage
+OpenStego
+SteganPEG
+Hide’N’Send
