@@ -1,0 +1,9 @@
+Stegnography
+
+tool used: Steghide
+
+command line: 
+
+steghide embed -ef 'secretfilepath' -cf 'imagepath' -p password123
+
+steghide extract -sf 'imagepath' -p password123 
